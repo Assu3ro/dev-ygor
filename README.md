@@ -16,3 +16,14 @@
 <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 </div>
+
+<br>
+<div align="center">
+<div style="display: inline_block">
+<br>
+
+# Troféus de Progresso:
+<div align="center">
+<div style="display: inline_block">
+
+<img width=700 src="https://github-profile-trophy.vercel.app/?username=dev-ygor&theme=darkhub&margin-w=3&margin-h=15"/>
